@@ -1,0 +1,91 @@
+.h1{
+    color:blue;
+    font-style: italic;
+}
+card{
+    border-radius:10px;
+    border-width:3px;
+    background-image:linear-gradient(to right,red,green)
+}
+p{
+    color:gray;
+    font-family:Bree Serif;
+    font-style:oblique;
+}
+#telugu{
+    font-style:unset;
+    padding-bottom:5px;
+    margin-bottom:5px;
+    font-size:18px;
+    color:greenyellow;
+}
+#HIN{
+    color:aqua;
+    font-style: inherit;
+    padding-bottom:5px;
+    margin-bottom:5px;
+    font-size:18px;
+}
+#eng{
+    color:blueviolet;
+    font-style:initial;
+    font-size:17px;
+    padding-bottom:5px;
+    margin-bottom:5px;
+}
+.mat{
+    color:chocolate;
+    font-style:initial;
+    font-size:17px;
+    padding-bottom:5px;
+    margin-bottom:5px;
+}
+#sci{
+    color:chartreuse;
+    margin-bottom:5px;
+    padding-bottom:5px;
+    font-size:17px;
+
+}
+#social{
+    color:crimson;
+    margin-bottom:5px;
+    padding-bottom:5px;
+}
+.tel{
+    color:green;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    padding-right:10px;
+    margin:5px;
+    font-weight:25px;
+}
+.lan{
+    color:cornsilk;
+}
+.img{
+    border-radius:20px;
+    border-width:3px;
+    padding-bottom:10px;
+    padding-left:3px;
+    margin-left:3px;
+}
+.type{
+    list-style-type: disc;
+}
+.btn{
+    color:blue;
+    font-style:italic;
+    font-weight:20px;
+}
+.hi{
+    text-align: center;
+    border-radius:20px;
+    margin:5px;
+    border-top-left-radius: 0cm;
+    border-top-right-radius: 0ch;
+}
+.vbc{
+    color:primaryblue;
+    
+}
